@@ -7,10 +7,11 @@
     }
   },
   "0.1.0": {
-    "hash": "/ipfs/QmPsh8b4mjgYkiKtVS1tJMmyWoeoNNVc1pWiLGfZH42qK2",
+    "hash": "/ipfs/Qmc1Gexd4M5GnfucRwgp1gYMzo131c8BKopiE8VSnAKESe",
     "type": "directory",
     "uploadedTo": {
-      "dappnode": "Thu, 21 Nov 2019 03:37:49 GMT"
-    }
+      "dappnode": "Thu, 21 Nov 2019 14:37:20 GMT"
+    },
+    "link": "http://my.dappnode/#/sdk/publish/r=trustlines-bridge.dnp.dappnode.eth&v=0.1.0&h=%2Fipfs%2FQmc1Gexd4M5GnfucRwgp1gYMzo131c8BKopiE8VSnAKESe&d=0xF35960302a07022aBa880DFFaEC2Fdd64d5BF1c1"
   }
 }
