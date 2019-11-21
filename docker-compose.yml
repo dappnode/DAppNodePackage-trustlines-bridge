@@ -4,7 +4,7 @@ services:
     image: 'trustlines-bridge.dnp.dappnode.eth:0.1.0'
     build: ./build
     volumes:
-      - 'trustlinesdnpdappnodeeth_config:/config:ro'
+      - 'trustlines-validatordnpdappnodeeth_config:/config:ro'
 volumes:
-  trustlinesdnpdappnodeeth_config:
+  trustlines-validatordnpdappnodeeth_config:
     external: true
