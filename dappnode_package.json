@@ -3,14 +3,10 @@
   "version": "0.1.0",
   "upstreamVersion": "release20955",
   "shortDescription": "Trustlines bridge",
-  "description": "Validators of the Trustlines Blockchain have to run the bridge that converts TLN tokens on the Ethereum chain to TLC tokens on the Trustlines Blockchain.",
+  "description": "Required service for Trustlines Validators. This bridge converts TLN tokens on the Ethereum chain to TLC tokens on the Trustlines Blockchain.",
   "type": "service",
   "requirements": {
     "minimumDappnodeVersion": "0.2.19"
-  },
-  "style": {
-    "featuredBackground": "linear-gradient(67deg, #140a0a, #512424)",
-    "featuredColor": "white"
   },
   "author": "DAppNode Association <admin@dappnode.io> (https://github.com/dappnode)",
   "contributors": [
@@ -18,8 +14,8 @@
   ],
   "categories": ["Blockchain"],
   "links": {
-    "homepage": "https://github.com/dappnode/DAppNodePackage-trustlines#readme",
-    "trustlines": "https://trustlines.network",
+    "homepage": "https://trustlines.network",
+    "readme": "https://github.com/dappnode/DAppNodePackage-trustlines#readme",
     "netstats": "https://netstats.tlbc.trustlines.foundation",
     "explorer": "https://blockexplorer.trustlines.foundation/"
   },
@@ -30,7 +26,5 @@
   "bugs": {
     "url": "https://github.com/dappnode/DAppNodePackage-trustlines-bridge/issues"
   },
-  "license": "GPL-3.0",
-  "dependencies" : {
-  }
+  "license": "GPL-3.0"
 }
