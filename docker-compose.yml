@@ -1,0 +1,10 @@
+version: '3.4'
+services:
+  trustlines-bridge.dnp.dappnode.eth:
+    image: 'trustlines-bridge.dnp.dappnode.eth:0.1.0'
+    build: ./build
+    volumes:
+      - 'trustlinesdnpdappnodeeth_config:/config:ro'
+volumes:
+  trustlinesdnpdappnodeeth_config:
+    external: true

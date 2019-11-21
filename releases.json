@@ -1,0 +1,16 @@
+{
+  "0.0.1": {
+    "hash": "/ipfs/QmTEZPDQUGC7qGLCQfjs5nSBqi4dR8KGekK6YvU2aVybxD",
+    "type": "directory",
+    "uploadedTo": {
+      "dappnode": "Wed, 20 Nov 2019 23:57:40 GMT"
+    }
+  },
+  "0.1.0": {
+    "hash": "/ipfs/QmeKeqnyFKbCJAXNvpFHvAC7v3dSMaXYbgF5HTPKFXrnHd",
+    "type": "directory",
+    "uploadedTo": {
+      "dappnode": "Thu, 21 Nov 2019 03:10:34 GMT"
+    }
+  }
+}
